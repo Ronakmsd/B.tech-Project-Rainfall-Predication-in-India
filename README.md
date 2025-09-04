@@ -1,8 +1,6 @@
 # Machine Learning Project : Rainfall Prediction System
 ## (Rainfall-Predication-in-India)
 
-### Youtube Explanation : https://youtu.be/RrMOFPkBg5k
-
 ![steganograaphy](https://user-images.githubusercontent.com/28294942/184524665-287636e9-0daa-4448-936e-91843f177c03.jpg)
 
 ### Abstract :
